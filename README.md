@@ -6,6 +6,10 @@ These are aseries of Python scripts hopefully useful for image analyses
 
 [**ROI manager to result table synchronizer using Jython**](https://github.com/JRamirez-F/Fiji-ROItoResultsSync)
 
-Allows you to link the ROI manager and the Results table (highlights bi-directionally)
+#### Allows you to link the ROI manager and the Results table (highlights bi-directionally)
+
+[**CLAHE paralelization using Numba in FIJI Python mode**](https://github.com/JRamirez-F/FAST_CLAHE)
+
+#### Allows you to link the ROI manager and the Results table (highlights bi-directionally)
 
 
