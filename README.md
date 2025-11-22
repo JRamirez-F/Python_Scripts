@@ -10,6 +10,6 @@ Allows you to link the ROI manager and the Results table (highlights bi-directio
 
 [**CLAHE paralelization using Numba in FIJI Python mode**](https://github.com/JRamirez-F/FAST_CLAHE)
 
-Allows you to link the ROI manager and the Results table (highlights bi-directionally)
+Speeding up CLAHE function in FIJI using Numba. Convenient for large image stacks of Light-sheet microscopy (or others).
 
 
