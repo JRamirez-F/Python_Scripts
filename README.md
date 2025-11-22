@@ -1,6 +1,6 @@
 # Python Scripts
 
-These are aseries of Python scripts hopefully useful for image analyses
+These are a series of Python scripts hopefully useful for image analyses and for data handling
 
 ## Python Scripts for FIJI :fiji_logo:
 
